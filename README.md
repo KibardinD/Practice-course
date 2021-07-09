@@ -1,4 +1,4 @@
-# Practice-course
+# Practice-course3 
 ## Task details
 Prey-predator model #5 \
 Target #1 \
